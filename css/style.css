@@ -1,0 +1,46 @@
+body {
+    background-color: #f7e89f;
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+i, em {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+}
+
+
+
+.logo {
+    width: 10%;
+    float: left;
+    margin-right: 15px;
+}
+
+.info {
+    margin-top: 20px;
+    white-space: pre-line; 
+}
+
+.separator {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 20px 0;
+    color: black;
+}
+
+.pizza-preview {
+    width: 200px;
+}
+
+.review {
+    clear: both;
+    margin-bottom: 20px;
+}
+
+.review-img {
+    width: 10%;
+    float: left;
+    margin-right: 15px;
+}
